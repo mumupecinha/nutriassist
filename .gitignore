@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+banco_vetorial/
+pendencias/
+assets/
